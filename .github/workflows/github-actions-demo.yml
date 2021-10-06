@@ -1,0 +1,10 @@
+#Yet Another Markup Language, TAA para la nueva línea
+name: Ejemplo de Acciones
+on: [push]
+jobs:
+  Primer-Github-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Bienvenido a GITHUB Actions"
+      - run: echo "Ejecutando en ${{ runner.os }}"
+      - run: echo "Datos de la rama ${{ github.ref }} de ${{ github.repository }}"
