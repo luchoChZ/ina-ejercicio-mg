@@ -40,6 +40,7 @@ class f {
 | ------  | :-----:|
 | Luis    | 30   |
 | Ricardo | 25   |
+| Jorge   | 25   |
 
 <!-- con : aliniamos las columnas  -->
 
