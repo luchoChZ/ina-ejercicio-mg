@@ -1,0 +1,9 @@
+# Le dice a GIT cuales archivos no deben visualizarse
+*.txt
+
+# Proyectos que utilizan NODE
+node_modules/
+
+#si es un proyecto de c#
+build/
+
