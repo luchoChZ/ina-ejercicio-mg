@@ -10,6 +10,7 @@
 - [x] Tarea 1
 - [ ] Tarea 2
 - [ ] Tarea 3
+- [ ] Tarea 4
 
 ## Símbolos Matemáticos
 Representación con kaTEX
